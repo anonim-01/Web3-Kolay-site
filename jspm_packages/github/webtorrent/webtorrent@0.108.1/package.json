@@ -69,7 +69,7 @@
     "stream-to-blob": "^2.0.0",
     "stream-to-blob-url": "^3.0.0",
     "stream-with-known-length-to-buffer": "^1.0.0",
-    "torrent-discovery": "^9.1.1",
+    "torrent-discovery": "^10.0.1",
     "torrent-piece": "^2.0.0",
     "unordered-array-remove": "^1.0.2",
     "ut_metadata": "^3.3.0",
