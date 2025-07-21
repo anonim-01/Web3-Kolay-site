@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "private": true,
   "dependencies": {
-    "jspm": "latest",
+    "jspm": "3.0.0",
     "mime-types": "latest"
   },
   "scripts": {
